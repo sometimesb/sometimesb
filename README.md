@@ -1,7 +1,7 @@
 Hi! My name is Bilal Zakaria! 😄
 ========================================================================================================================================
 
-🌍  I am a Full-Stack Engineer currently working for Markem-Imaje out of Nashville,TN.
+🌍  I am a Software Engineer currently working for Markem-Imaje out of Nashville,TN.
 <br/>
 
 ### Skills
