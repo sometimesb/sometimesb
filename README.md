@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Database optimization, AI/ML**
 
-- 👯 I want to collaborate on **A new SQL learning platform with AI integration.**
+- 👯 I want to collaborate on **A new Crypto and ML platform based on my learnings from ML4T @ GT**
 
 - 👨‍💻 All of my projects are available at [https://bilalzakaria.vercel.app/](https://bilalzakaria.vercel.app/)
 
